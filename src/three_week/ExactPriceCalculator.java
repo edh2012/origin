@@ -1,3 +1,5 @@
+package three_week;
+
 import java.util.Scanner;
 
 public class ExactPriceCalculator {
